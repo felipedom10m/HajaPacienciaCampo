@@ -1,0 +1,11 @@
+{
+  "email": "teste@teste.com",
+  "senha": "teste-test_2",
+  "produto": "HajaPacienciaCampo",
+  "upsells_comprados": [
+    1
+  ],
+  "data": "2025-08-15T14:07:13.653Z",
+  "transacao_id": "test_281894",
+  "acesso_liberado": true
+}
